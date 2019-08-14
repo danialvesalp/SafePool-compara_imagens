@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\danielle\documents\visual studio 2015\projects\comparaimagens4\comparaimagens4\source.cpp(86): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ComparaImagens4.vcxproj -> C:\Users\Danielle\Documents\Visual Studio 2015\Projects\ComparaImagens4\x64\Debug\ComparaImagens4.exe
+  ComparaImagens4.vcxproj -> C:\Users\Danielle\Documents\Visual Studio 2015\Projects\ComparaImagens4\x64\Debug\ComparaImagens4.pdb (Full PDB)
